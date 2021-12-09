@@ -1,3 +1,3 @@
 # e-commerce-backend
 Walk through video link
-https://youtu.be/3-UUmsQdSTQ
+https://youtu.be/zfnMe1pD_O4
